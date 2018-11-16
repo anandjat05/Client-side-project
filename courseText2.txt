@@ -1,0 +1,15 @@
+HTML defines six levels of headings. A heading element implies all the font changes, paragraph breaks before and after, and any white space necessary to render the heading. The heading elements are H1, H2, H3, H4, H5, and H6 with H1 being the highest (or most important) level and H6 the least. For example:
+
+<H1>This is a top level heading</H1> Here is some text.
+<H2>Second level heading</H2> Here is some more text.
+Use the DIV element together with header elements when you want to make the hierarchical structure of a document explicit. This is needed as header elements themselves only contain the text of the header, and do not imply any structural division of documents into sections. Header elements have the same content model as paragraphs, that is text and character level markup, such as character emphasis, inline images, form fields and math.
+
+Headers play a related role to lists in structuring documents, and it is common to number headers or to include a graphic that acts like a bullet in lists. HTML 3.0 recognizes this with attributes that assist with numbering headers and allow authors to specify a custom graphic.
+
+The numbering style is controlled by the style sheet, e.g.
+
+The style sheet specifies whether headers are numbered, and which style is used to render the current sequence number, e.g. arabic, upper alpha, lower alpha, upper roman, lower roman or a numbering scheme appropriate to the current language.
+Whether the parent numbering is inherited, e.g. "5.1.d" where 5 is the current sequence number for H1 headers, 1 is the number for H2 headers and 4 for H3 headers.
+The seqnum and skip attributes can be used to override the default treatment of header sequence numbers, and provide for a continuity with numbered lists.
+
+The dingbat or src attribute may be used to specify a bullet-like graphic to be placed adjacent to the header. The positioning of this graphic is controlled by the style sheet. The graphic is for decorative purposes only and silently ignored on non-graphical HTML user agents.
