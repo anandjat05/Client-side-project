@@ -1,0 +1,65 @@
+{"quizlist":[
+  
+	{
+	"question":"What does CSS stand for _______ ?",
+	"option1":"Cascading Style Sheets",
+	"option2":"Cascading Style System",
+	"option3":"Cascading Slim Sheets"
+	},
+	{
+	"question":"What are the 3 ways styling can be added to HTML elements?",
+	"option1":"Inline - using a style attribute in HTML elements",
+	"option2":"External - using one or more external html files",
+	"option3":"Internal - using a style element in the HTML body section"
+	},
+	{
+	"question":"How do you seperate multiple styles within an elemnt?",
+	"option1":"Multiple styles are separated with semicolon.",
+	"option2":"Multiple styles are separated with comma",
+	"option3":"styles are separated by a new file"
+	},
+	{
+	"question":"HTML tags are not composed of following tags",
+	"option1":"body tag",
+	"option2":"Closing Tag",
+	"option3":"Opening Tag"
+	},
+	{
+	"question":"HTML Stands for _______?",
+	"option1":"Hyper Text Markup Language",
+	"option2":"Hyper Text Median Language",
+	"option3":"Hyper Text Makeup Language"
+	},
+	{
+	"question":"Creating a hyperlink in HTML can be done by _______?",
+	"option1":"Unsolved link",
+	"option2":"Unvisited link",
+	"option3":"Active link"
+	},
+	{
+	"question":"What are some common lists that are not used when designing a page?",
+	"option1":"Perfect list",
+	"option2":"Ordered list",
+	"option3":"Unordered list"
+	},
+	{
+	"question":"Choose the correct HTML element for the largest heading:",
+	"option1":"h1 tag",
+	"option2":"h6 tag",
+	"option3":"heading tag"
+	},
+	{
+	"question":"What is the correct HTML element for inserting a line break?",
+	"option1":"br tag",
+	"option2":"break tag",
+	"option3":"lb tag"
+	},
+	{
+	"question":"Which character is used to indicate an end tag?",
+	"option1":"/",
+	"option2":"*",
+	"option3":">"
+	}
+	
+]
+}
